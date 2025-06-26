@@ -27,26 +27,7 @@ const Home = () => {
           </Button>
         </div>
       </header>
-      {/* pr jo sambhad
-locally work krse to chalse
-react, ne bdha project beckend sathe host thai j nai
-domain ne subscription joye
-To auth nu karu pela to
-Pchi bija projects bhi link kari nakhis - e 
-kem?
-Ek thi bija pr explanation 
-Aanu etlu jove nai em 
-pr de nu j jose mam/sir
 
-em nai 
-etle jo student walu aave to ema ek link hoy campus eats ni 
-canteen management system ahiya thi use kare 
-
-ne faculty walu aave to ema ek link hoy RULP ni 
-Amaru pelu project 
-- soltkay but aa ig pchio
-
-??*/}
       {/* Hero Section */}
       <div className="bg-gradient-to-b from-campus-light to-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -200,7 +181,7 @@ Amaru pelu project
             <div className="rounded-lg overflow-hidden shadow-md order-3 md:order-4">
               <div className="h-64 bg-gray-200">
                 <img
-                  src="../student-community.jpg"
+                  src=".../student-community.jpg"
                   alt="Student community"
                   className="w-full h-full object-cover"
                 />

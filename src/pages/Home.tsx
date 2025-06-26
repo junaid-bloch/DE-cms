@@ -181,7 +181,7 @@ const Home = () => {
             <div className="rounded-lg overflow-hidden shadow-md order-3 md:order-4">
               <div className="h-64 bg-gray-200">
                 <img
-                  src=".../student-community.jpg"
+                   src="https://media.licdn.com/dms/image/v2/D4D22AQENW_EqE4W0OA/feedshare-shrink_1280/feedshare-shrink_1280/0/1733065421334?e=1753920000&v=beta&t=RJ-kkpHSxs4IsbLKpz3fMjPZIvij_j0r-z4sL29mSpY"
                   alt="Student community"
                   className="w-full h-full object-cover"
                 />
